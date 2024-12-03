@@ -5,3 +5,4 @@
 [![asciicast](https://img.shields.io/badge/asciinema-calc-brightgreen)](https://asciinema.org/a/xdVVRPUQQriaveMRYxJA6Y2Jf)
 [![asciicast](https://img.shields.io/badge/asciinema-gcd-brightgreen)](https://asciinema.org/a/kx1Z80qBs2B6ZmGR4ySHB3JhI)
 [![asciicast](https://img.shields.io/badge/asciinema-progression-brightgreen)](https://asciinema.org/a/vuzvUnJ1MaK3uGRSdjetvR3h7)
+[![asciicast](https://img.shields.io/badge/asciinema-prime-brightgreen)](https://asciinema.org/a/h4mZigb47085C9YoE3V717ykk)
