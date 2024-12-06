@@ -11,7 +11,7 @@ const startBrainProgression = () => {
 
   const generateQuestionAndAnswer = () => {
     const { emptyElement, array } = getProgressionWithOneEmptyElement();
-    const question = `${array.join(', ')}`;
+    const question = `${array.join(' ')}`;
     const answer = String(emptyElement);
     return { question, answer };
   };
