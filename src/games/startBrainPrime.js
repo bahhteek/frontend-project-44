@@ -16,7 +16,7 @@ const startBrainPrime = () => {
     return { question, answer };
   };
 
-  answersWhile(name, 'Answer "yes" if the number is prime, otherwise answer "no".', generateQuestionAndAnswer);
+  answersWhile(name, 'Answer "yes" if given number is prime. Otherwise answer "no".', generateQuestionAndAnswer);
 };
 
 export default startBrainPrime;
